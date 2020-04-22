@@ -1,0 +1,17 @@
+{
+  "name": "netconv-test",
+  "displayName": "netconv-test",
+  "expo": {
+    "name": "netconv-test",
+    "slug": "netconv-test",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
