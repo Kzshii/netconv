@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<QuantityItem /> renders correctly QuantityItem 1`] = `ShallowWrapper {}`;
+
+exports[`<QuantityItem /> should decrement 1`] = `ShallowWrapper {}`;
+
+exports[`<QuantityItem /> should increment 1`] = `ShallowWrapper {}`;

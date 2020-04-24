@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CircularButton /> renders correctly CircularButton 1`] = `ShallowWrapper {}`;
+
+exports[`<CircularButton /> renders correctly CircularButton 2`] = `ShallowWrapper {}`;
