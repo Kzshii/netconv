@@ -1,6 +1,6 @@
 # Netconv App
 
-![Project Homepage](.github/homescreen.png)
+![Project Homepage](.github/homescreen.png){:height="400px"}
 Aplicativo teste de compra de produtos, utilizado do [Redux](https://github.com/reduxjs/redux) com [Redux thunk](https://github.com/reduxjs/redux-thunk) para armazenar os produtos adicionados, além de utilizar o [React Navigation](https://reactnavigation.org/docs/getting-started) para navegar entre as páginas.
 
 O projeto possui 3 páginas, sendo elas:
